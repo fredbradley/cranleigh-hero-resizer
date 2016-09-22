@@ -17,3 +17,16 @@ For example the hero image for "Admissions" page will be an image like so:
 ```
 
 You'll then notice that it's created all the images for you - you then need to upload them to the `wp-content/themes/cranleigh-2016/img/` folder, and... **Bob's your uncle!** 
+
+## Server Requirements
+This piece of script relies on **ImageMagick** to be installed on your server. 
+
+### Install on Centos
+```sh
+	$ yum install ImageMagick
+```
+
+### Install on Ubuntu
+```sh
+	$ apt-get install imagemagick
+```
