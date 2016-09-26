@@ -2,7 +2,7 @@
 ## How To use
 You need to crop the original image (in photoshop for example). 
 
-You need to crop it at 2880x999 ensuring that the main subject of the image is as much in the centre of the image as possible.
+You need to crop it at 2880x999 (320:111) ensuring that the main subject of the image is as much in the centre of the image as possible.
 
 Then add it to this folder on the server, and call the name of the page and save it as a `.jpg`. 
 
